@@ -91,6 +91,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MultiRC](https://cogcomp.seas.upenn.edu/multirc/) – Multi-sentence reasoning benchmark.
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419) – QA benchmark used in retrieval + QA systems.
 - [CommonSenseQA](https://www.tau-nlp.org/) – Commonsense reasoning dataset.
+- [LevelBench-100](https://github.com/levelcfo/levelbench-100) - Open evaluation dataset and leaderboard testing frontier LLMs across 100 real-world accounting, tax, and multi-system month-end close workflows ([Website](https://levelcfo.com/ai-benchmark/)).
 
 ## Learning Resources
 
